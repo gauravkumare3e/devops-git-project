@@ -1,12 +1,4 @@
-<!-- Banner -->
-
-<p align="center">
-
-&nbsp; <img src="A\_banner\_image\_for\_a\_DevOps\_Git\_Project\_digital\_gr.png" alt="Project Banner" width="100%"/>
-
-</p>
-
-
+\#DEOPS GIT PROJECT
 
 <!-- Badges -->
 
