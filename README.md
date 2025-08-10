@@ -1,4 +1,4 @@
-\#DEOPS GIT PROJECT
+# DEVOPS GIT PROJECT
 
 <!-- Badges -->
 
@@ -18,73 +18,43 @@
 
 </p>
 
+---
 
+## 📌 Project Overview
+
+This is a beginner-friendly **DevOps Git project** designed to help you practice Git basics, version control, and collaborative workflows.
+
+It uses **GitHub Actions** to implement a CI/CD pipeline and follows best practices for project documentation.
 
 ---
 
+## 🛠️ Tech Stack
 
-
-\## 📌 Project Overview
-
-This is a beginner-friendly \*\*DevOps Git project\*\* designed to practice Git basics, version control, and collaborative workflows.  
-
-It uses \*\*GitHub Actions\*\* to implement a CI/CD pipeline and follows best practices for project documentation.
-
-
+- **Version Control:** Git, GitHub  
+- **CI/CD:** GitHub Actions  
+- **Scripting:** Markdown  
 
 ---
 
+## 🚀 Features
 
-
-\## 🛠️ Tech Stack
-
-\- \*\*Version Control:\*\* Git, GitHub  
-
-\- \*\*CI/CD:\*\* GitHub Actions  
-
-\- \*\*Scripting:\*\* Markdown  
-
-\- \*\*Containerization:\*\* Docker (optional)  
-
-
+- Beginner-friendly documentation  
+- Clear Git commit workflow  
+- Automated testing and deployment with GitHub Actions  
+- Professional project structure  
 
 ---
 
-
-
-\## 🚀 Features
-
-\- Beginner-friendly documentation  
-
-\- Clear Git commit workflow  
-
-\- Automated testing and deployment with GitHub Actions  
-
-\- Professional project structure  
-
-
-
----
-
-
-
-\## 📂 Project Structure
+## 📂 Project Structure
 
 ```plaintext
-
 📦 my-devops-project
+ ┣ 📂 .github
+ ┃ ┗ 📂 workflows
+ ┃   ┗ ci.yml
+ ┣ 📜 README.md
+ ┗ 📜 LICENSE
 
-&nbsp;┣ 📂 .github
-
-&nbsp;┃ ┗ 📂 workflows
-
-&nbsp;┃   ┗ ci.yml
-
-&nbsp;┣ 📜 README.md
-
-&nbsp;┣ 📜 main.py (example code)
-
-&nbsp;┗ 📜 LICENSE
 
 
 
